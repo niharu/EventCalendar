@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/tableLayout1"
+    android:padding="1dp"
+    android:layout_gravity="fill"
+    android:background="@color/lightGray">
+
+    <TextView
+        android:id="@+id/dayOfMonth"
+        android:layout_width="match_parent"
+        android:background="@color/gray"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/schedule"
+        android:layout_width="match_parent"
+        android:background="@color/darkGray"
+        android:layout_height="match_parent"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:layout_weight="1"
+        android:textSize="12sp"/>
+
+</TableLayout>

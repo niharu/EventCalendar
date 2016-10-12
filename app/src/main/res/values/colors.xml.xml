@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lightGray">#c0c0c0</color>
+    <color name="darkGray">#202020</color>
+    <color name="gray">#808080</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#c00000</color>
+    <color name="blue">#0000c0</color>
+    <color name="green">#00c000</color>
+    <color name="tomato">#ff6347</color>
+    <color name="royalBlue">#4169e1</color>
+
+    <color name="tpLightGray">#88c0c0c0</color>
+    <color name="tpDarkGray">#cc202020</color>
+    <color name="tpGray">#88808080</color>
+    <color name="tpWhite">#88ffffff</color>
+    <color name="tpRed">#88c00000</color>
+    <color name="tpBlue">#880000c0</color>
+    <color name="tpGreen">#8800c000</color>
+    <color name="tpTomato">#88ff6347</color>
+    <color name="tpRoyalBlue">#884169e1</color>
+</resources>
